@@ -1,0 +1,287 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-ExtraLightItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Bold.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-ExtraLight.woff2") format("woff2"),
+    url("../font/IBMPlexSans-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-BoldItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Light.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-LightItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-MediumItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Medium.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Italic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-SemiBoldItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Regular.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-SemiBold.woff2") format("woff2"),
+    url("../font/IBMPlexSans-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-ThinItalic.woff2") format("woff2"),
+    url("../font/IBMPlexSans-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../font/IBMPlexSans-Thin.woff2") format("woff2"),
+    url("../font/IBMPlexSans-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-BoldItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Bold.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-BlackItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Black.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-ExtraLightItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-ExtraLight.woff2") format("woff2"),
+    url("../font/HankenGrotesk-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-ExtraBoldItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-ExtraBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-ExtraBold.woff2") format("woff2"),
+    url("../font/HankenGrotesk-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Italic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-MediumItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Light.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-LightItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Regular.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Medium.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-SemiBoldItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-SemiBold.woff2") format("woff2"),
+    url("../font/HankenGrotesk-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-ThinItalic.woff2") format("woff2"),
+    url("../font/HankenGrotesk-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("../font/HankenGrotesk-Thin.woff2") format("woff2"),
+    url("../font/HankenGrotesk-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
